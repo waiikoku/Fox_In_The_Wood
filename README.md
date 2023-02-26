@@ -16,7 +16,7 @@
 https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
 
 - เกมแนว 2D Side-scroll Platformer, Adventure
-- 
+
 # Game Overview
 เรื่องราวที่ของสุนัขจิ้งจองที่ออกผจญภัยไปในป่าลึกโดยการเดินทางโดยการห้อยโหนไปที่ต่างๆเพื่อเก็บGemที่ใช้ในการปลดล็อคประตูวิเศษแต่ละพื้นที่ เพื่อค้นหาขุมทรัพย์ที่อยู่ใต้ดิน
 
