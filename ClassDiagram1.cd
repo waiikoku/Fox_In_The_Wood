@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CameraFollow" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAAiAAAAAAoAAAAAAAAAAAAAAAAAACAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\CameraFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraZone" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACBACAAAAAAAAAAAQAAAEAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CameraZone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cherry" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAEAAAAACAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Cherry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CherryTree" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAEAAAAAAAAAIAAAAAAAAAAAAACAAAAAAAABAAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\CherryTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CherryUI" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\CherryUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollectMystic" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CollectMystic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicPlaylist" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Core\Audio\MusicPlaylist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Playlist" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAABAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Core\Audio\Playlist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFXPlaylist" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Core\Audio\SFXPlaylist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sound" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAAQBAAAAAAAAAAAAAIAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Core\Audio\Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAMCEWgBAADAgAAKoCUAQAAAQSBIAiAAAEAIAQA=</HashCode>
+      <FileName>Assets\Scripts\Core\Audio\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAAAAAAASAAAAEEACEAAAAEBQBAAAAgAIAAEA=</HashCode>
+      <FileName>Assets\Scripts\Core\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterData" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAAAAAAAQAAAAMAAAAAAAAAAQAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Core\CharacterData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterMovement" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAgAQoCIBAAEgACCcBAAIwCAASAACQwAAAAECFc=</HashCode>
+      <FileName>Assets\Scripts\Core\CharacterMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Singleton&lt;T&gt;" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Core\System\Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoxyAnimate" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEIQAAAAAAAAQAAAAAAAACAAAAAIAQAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FoxyAnimate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameController" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AHAAAIAAjSIAEAAAAAQAoACAAAAAAAAQAYAAFAQAAAI=</HashCode>
+      <FileName>Assets\Scripts\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gate" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAEQAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Gate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gem" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAACAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Gem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GemUI" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GemUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lever" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAQAAAAEAAABAAEAAkAAAkAAQAAAEAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Lever.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerCharacter" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQQAAAAAgiAMAgEAAQAAIBACAEQAAABgQAAgogIAKME=</HashCode>
+      <FileName>Assets\Scripts\PlayerCharacter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAJEAAIAACAQAIQAEAAAAAIAAAACAAAAACAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneLoader" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIBCAIgAiAAAAAQACAAMAAAAAAACAAAAAAABAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Scene\SceneLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneTransition" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAgAACACAAAAAAAAAAAAQAAAAACAACECEAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Scene\SceneTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpikeTrap" Collapsed="true">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpikeTrap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestroyObject" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tar Script\DestroyObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Eagle" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAgAAAAAAgAAAAAEADEAAAABABAEAgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tar Script\Eagle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyController" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAiAgCAAAgAAABAAQDAAAAABABAAggAABAAA=</HashCode>
+      <FileName>Assets\Scripts\Tar Script\EnemyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerSeeker" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAAAAAAAAAAAAAAEAQAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\Tar Script\PlayerSeeker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngameUIController" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASBAABAgKggAgJAIIABCCAEAAECQAAAAIAAAAAEAQA=</HashCode>
+      <FileName>Assets\Scripts\UI\IngameUIController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointerFade" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIEAAAAAAAAAAAAAAgAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\PointerFade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TitleMenuController" Collapsed="true">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASBIAAAAKgAAAJIAIAACKAAAAACQAAAAIAkAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\UI\TitleMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UITextController" Collapsed="true">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAIAACAQAAAQAAAUAAAAgAQAAAAIAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\UITextController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platformer.UI.MainUIController" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAQAACAA=</HashCode>
+      <FileName>Assets\Scripts\UI\MainUIController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
