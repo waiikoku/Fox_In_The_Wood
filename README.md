@@ -38,3 +38,8 @@ https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
 | LMB | โชว์ระยะHook, Hookจุดยึด |
 | RMB | พุ่งเวลาHook |
 | Space | กระโดด |
+
+# Class Diagram (Class Designer from VisualStudio)
+![Y2_FoxInTheWood-Diagram](https://user-images.githubusercontent.com/48912221/221408649-e56ad1f0-22cb-458a-9454-ee585f28fcc6.png)
+
+
